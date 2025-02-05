@@ -12,6 +12,9 @@
 I'm dedicated to improving my skills every day and turning ideas into visually appealing, interactive web applications. I love solving challenges with clean code and modern frameworks like **React** and **Tailwind CSS**. Outside of coding, I enjoy exploring new tech, learning about design, and working on side projects.
 
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahsanadip7&label=Profile%20views&color=0e75b6&style=flat" alt="ahsanadip7" /> </p>  <p align="left"> <a href="https://twitter.com/ahsanadip4" target="blank"><img src="https://img.shields.io/twitter/follow/ahsanadip4?logo=twitter&style=for-the-badge" alt="ahsanadip4" /></a> </p>
+
+---
 
 ## 🌱 Current Activities
 - Exploring **Next.js** for server-side rendering and static site generation.
@@ -96,8 +99,3 @@ git clone https://github.com/ahsanadip7/crowd-funding.git
 cd crowd-funding
 npm install
 npm start
-
----
-
-## Profile status:
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahsanadip7&label=Profile%20views&color=0e75b6&style=flat" alt="ahsanadip7" /> </p>  <p align="left"> <a href="https://twitter.com/ahsanadip4" target="blank"><img src="https://img.shields.io/twitter/follow/ahsanadip4?logo=twitter&style=for-the-badge" alt="ahsanadip4" /></a> </p>
