@@ -36,7 +36,7 @@ I'm dedicated to improving my skills every day and turning ideas into visually a
 
 ## 🌍 Connect with Me
 
-- **Email**: [ahsanadip7@gmail.com](mailto:ahsanadip7@gmail.com)- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/ahsanadip7)- **GitHub**: [GitHub Profile](https://github.com/ahsanadip7)
+- **Email**: [ahsanadip7@gmail.com](mailto:ahsanadip7@gmail.com)- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/ahsanadip7)- **GitHub**: [GitHub Profile](https://github.com/ahsanadip7)- **Twiteer**: <a href="https://twitter.com/ahsanadip4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahsanadip4" height="30" width="40" /></a>
 
 ---
 
