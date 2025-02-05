@@ -126,8 +126,16 @@ A **collaborative online platform** where users can join group study sessions, c
   ```sh
   git clone https://github.com/ahsanadip7/online-group-study-website.git
   cd online-group-study-website
-  npm install
-  npm start
+  ```
+  **Install dependencies**:
+    ```sh
+    npm install
+    ```
+
+ **Run the development server**:
+    ```sh
+    npm start
+    ```
 
 
 
@@ -150,5 +158,13 @@ A crowdfunding platform for users to create and support projects with donations,
  ```sh
 git clone https://github.com/ahsanadip7/crowd-funding.git
 cd crowd-funding
-npm install
-npm start
+```
+ **Install dependencies**:
+    ```sh
+    npm install
+    ```
+
+ **Run the development server**:
+    ```sh
+    npm start
+    ```
