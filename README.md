@@ -23,9 +23,8 @@ I specialize in modern web development technologies. Here's what I work with:
 
 ### **🔧 Online Group Study Platform**
 A collaborative platform designed for online group studies, built with **React**, **Tailwind CSS**, and **Firebase**.  
-👉 [View Demo](https://your-demo-link.com)
+👉 [View Demo](https://assignment-12-db862.web.app/)
 
-![Group Study](https://via.placeholder.com/800x400?text=Group+Study+Platform)
 
 ### **📚 Personal Portfolio**
 A showcase of my web development skills and projects, styled with **Tailwind CSS** and **React**.  
