@@ -6,10 +6,11 @@ Welcome to my GitHub profile! I'm **Ahsan Adip**, a passionate **front-end web d
 
 I specialize in modern web development technologies, and here’s what I work with:
 
-- **React.js** – Build interactive UIs with a component-based approach
-- **JavaScript** – Write clean, efficient, and scalable code
-- **Tailwind CSS** – Rapidly style web pages with utility-first CSS
-- **HTML5** & **CSS3** – Crafting semantic and accessible web pages
+![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
+![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
+![Tailwind CSS](https://upload.wikimedia.org/wikipedia/commons/6/60/Tailwind_CSS_Logo.svg)
+![HTML5](https://upload.wikimedia.org/wikipedia/commons/2/26/HTML5_logo_2019.svg)
+![CSS3](https://upload.wikimedia.org/wikipedia/commons/6/6a/CSS3_logo.svg)
 
 ---
 
