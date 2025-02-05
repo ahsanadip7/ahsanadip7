@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm **Ahsan Adip**, a passionate **front-end web d
 
 I specialize in modern web development technologies, and here’s what I work with:
 
-![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
-![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
-![Tailwind CSS](https://upload.wikimedia.org/wikipedia/commons/6/60/Tailwind_CSS_Logo.svg)
-![HTML5](https://upload.wikimedia.org/wikipedia/commons/2/26/HTML5_logo_2019.svg)
-![CSS3](https://upload.wikimedia.org/wikipedia/commons/6/6a/CSS3_logo.svg)
+- **React.js** ⚛️
+- **JavaScript** 💻
+- **Tailwind CSS** 🌪️
+- **HTML5** 🌐
+- **CSS3** 🎨
 
 ---
 
@@ -28,12 +28,8 @@ I specialize in modern web development technologies, and here’s what I work wi
 ### **🔧 Online Group Study Platform**
 A collaborative platform designed for online group studies, built with **React**, **Tailwind CSS**, and **Firebase**.
 
-![Group Study](https://your-image-link.com/group-study.png)
-
 ### **📚 Personal Portfolio**
 A showcase of my web development skills and projects, styled with **Tailwind CSS** and **React**.
-
-![Portfolio](https://your-image-link.com/portfolio.png)
 
 ---
 
