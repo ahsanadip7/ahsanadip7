@@ -1,4 +1,4 @@
-# ![Banner Image](https://via.placeholder.com/1200x400?text=Welcome+to+Ahsan+Adip's+GitHub+Profile)  
+# ![Banner Image](https://i.ibb.co.com/B5npmxwH/profilegithub.jpg)  
 *Replace this placeholder with your actual banner image URL*
 
 ## 👋 Hi, I'm **Ahsan Adip**  
