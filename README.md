@@ -48,7 +48,7 @@ I'm dedicated to improving my skills every day and turning ideas into visually a
 
 ## 📂 Pinned Repositories
 
-### 1. **🔧 Online Group Study Platform**
+### **🔧 Online Group Study Platform**
 
 A **collaborative online platform** where users can join group study sessions, create tasks, and track progress. Built with **React**, **Tailwind CSS**, and **Firebase** for authentication and real-time database.
 
@@ -71,56 +71,31 @@ A **collaborative online platform** where users can join group study sessions, c
   cd online-group-study-website
   npm install
   npm start
-Open http://localhost:3000 in your browser.
 
-2. 📚 Personal Portfolio
-A portfolio website to showcase my web development projects and skills, built with React and Tailwind CSS.
 
-Live Project: View Live Demo
-Technologies Used: React, Tailwind CSS, JavaScript
-README Highlights:
-Overview: A personal portfolio to highlight my skills and projects.
-Core Features:
-A clean, professional layout.
-Easy navigation through projects and contact information.
-Showcase of my skills with badges and icons.
-Dependencies:
-React
-Tailwind CSS
-Step-by-Step Setup:
-sh
-Copy
-Edit
-git clone https://github.com/ahsanadip7/personal-portfolio.git
-cd personal-portfolio
-npm install
-npm start
-Open http://localhost:3000 in your browser.
-3. 💸 Crowd Cube - Crowdfunding Platform
+
+### ** 💸 Crowd Cube - Crowdfunding Platform**
 A crowdfunding platform for users to create and support projects with donations, featuring real-time progress tracking and payment options.
 
-Live Project: View Live Demo
-Technologies Used: React, Firebase, Node.js, Express.js, Tailwind CSS
-README Highlights:
-Overview: A platform for raising funds for projects.
-Core Features:
-User registration and login via Firebase.
-Project creation and donation options.
-Real-time donation tracking.
-Dependencies:
-React
-Firebase
-Node.js
-Tailwind CSS
-Step-by-Step Setup:
-sh
-Copy
-Edit
+- **Live Project**: [View Live Demo](https://assignment-11-57128.web.app/)
+- **Technologies Used**: React, Tailwind CSS, Firebase, JavaScript
+#### README Highlights:
+- **Overview**: A platform for students to study together in a collaborative environment.
+- **Core Features**:
+  - Real-time project updates using Firebase.
+  - User authentication via Firebase.
+  - Interactive task management.
+- **Dependencies**:
+  - React
+  - Tailwind CSS
+  - Firebase
+- **Step-by-Step Setup**:
+ ```sh
 git clone https://github.com/ahsanadip7/crowd-funding.git
 cd crowd-funding
 npm install
 npm start
-Open http://localhost:3000 in your browser.
+
 💡 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
