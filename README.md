@@ -52,6 +52,59 @@ I'm dedicated to improving my skills every day and turning ideas into visually a
 
 ## 📂 Pinned Repositories
 
+# 💉 **Blood Donation Platform**
+
+Welcome to the **Blood Donation Platform** — an online collaborative platform where users can join study groups, create tasks, and track progress. The platform is built using **React**, **Tailwind CSS**, and **Firebase** for real-time authentication and database.
+
+---
+
+## 🚀 **Live Project**:
+- You can check out the live version of **Blood Donation Platform** here:  
+[**View Live Demo**](https://assignment-12-db862.web.app/)
+
+---
+
+## 🔧 **Technologies Used**:
+- **React**: For building interactive user interfaces.
+- **Tailwind CSS**: For fast, responsive, and customizable design.
+- **Firebase**: Real-time database and user authentication.
+- **JavaScript**: For dynamic functionality.
+
+---
+
+## 📝 **Overview**:
+The **Blood Donation Platform** is designed to allow users to easily register as donors, manage donation requests, and track the availability of blood in real time. The platform is built with a focus on seamless user experience and mobile responsiveness.
+
+---
+
+## **Core Features**:
+- **Real-Time Updates**: Users get instant updates for any changes in donation requests and available blood.
+- **User Authentication**: Secure login and sign-up via Firebase authentication.
+- **Task Management**: Users can view and track their blood donation tasks and goals.
+- **Mobile-Responsive Design**: Optimized for use across all device sizes.
+
+---
+
+## 📂 **Step-by-Step Setup**:
+To run this project locally on your machine, follow these steps:
+
+1. **Clone the repository**:
+    ```sh
+    git clone https://github.com/ahsanadip7/online-group-study-website.git
+    cd online-group-study-website
+    ```
+
+2. **Install dependencies**:
+    ```sh
+    npm install
+    ```
+
+3. **Run the development server**:
+    ```sh
+    npm start
+    ```
+
+  
 ### **🔧 Online Group Study Platform**
 
 A **collaborative online platform** where users can join group study sessions, create tasks, and track progress. Built with **React**, **Tailwind CSS**, and **Firebase** for authentication and real-time database.
