@@ -1,11 +1,8 @@
+# 💻 Ahsan Adip | Front-End Web Developer
+
 ![Banner Image](https://i.ibb.co/B5npmxwH/profilegithub.jpg)
 
-*Replace this placeholder with your actual banner image URL*
-
-## 👋 Hi, I'm **Ahsan Adip**  
-**Frontend Web Developer** | **React Enthusiast** | **UI/UX Designer**
-
-Welcome to my GitHub profile! I'm a **passionate frontend web developer** from **Bangladesh**, specializing in building modern, responsive, and user-friendly websites using the latest web technologies.
+Welcome to my GitHub profile! I'm **Ahsan Adip**, a passionate **front-end web developer** from **Bangladesh**...
 
 ---
 
