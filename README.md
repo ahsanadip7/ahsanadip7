@@ -45,8 +45,6 @@ I'm dedicated to improving my skills every day and turning ideas into visually a
 ![Ahsan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahsanadip7&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanadip7&layout=compact&theme=radical)
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahsanadip7&label=Profile%20views&color=0e75b6&style=flat" alt="ahsanadip7" /> </p>  <p align="left"> <a href="https://twitter.com/ahsanadip4" target="blank"><img src="https://img.shields.io/twitter/follow/ahsanadip4?logo=twitter&style=for-the-badge" alt="ahsanadip4" /></a> </p>
-
 
 
 ## 📂 Pinned Repositories
@@ -99,10 +97,6 @@ cd crowd-funding
 npm install
 npm start
 
-💡 License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
-Feel free to explore my repositories and reach out for collaboration or inquiries. 😊
-Let's build something amazing! 🚀
-
-
+## Profile status:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahsanadip7&label=Profile%20views&color=0e75b6&style=flat" alt="ahsanadip7" /> </p>  <p align="left"> <a href="https://twitter.com/ahsanadip4" target="blank"><img src="https://img.shields.io/twitter/follow/ahsanadip4?logo=twitter&style=for-the-badge" alt="ahsanadip4" /></a> </p>
