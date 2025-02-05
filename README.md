@@ -1,8 +1,10 @@
-# 💻 Ahsan Adip | Front-End Web Developer
+
 
 ![Banner Image](https://i.ibb.co/B5npmxwH/profilegithub.jpg)
 
-Welcome to my GitHub profile! I'm **Ahsan Adip**, a passionate **front-end web developer** from **Bangladesh**...
+
+<h1 align="center">💻 Ahsan Adip | Front-End Web Developer</h1>
+<h3 align="center">Welcome to my GitHub profile! I'm **Ahsan Adip**, a passionate **front-end web developer** from **Bangladesh** with a keen interest in building user-friendly, responsive, and visually appealing websites.</h3>
 
 ---
 
@@ -140,8 +142,7 @@ Let's build something amazing! 🚀
 
 
 
-<h1 align="center">Hi 👋, I'm Ahsan Adip</h1>
-<h3 align="center">Welcome to my GitHub profile! I'm a **passionate frontend web developer** from **Bangladesh**, specializing in building modern, responsive, and user-friendly websites using the latest web technologies.</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahsanadip7&label=Profile%20views&color=0e75b6&style=flat" alt="ahsanadip7" /> </p>
 
