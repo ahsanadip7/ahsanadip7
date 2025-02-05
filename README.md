@@ -1,4 +1,5 @@
-# ![Banner Image](https://i.ibb.co.com/B5npmxwH/profilegithub.jpg)  
+![Banner Image](https://i.ibb.co/B5npmxwH/profilegithub.jpg)
+
 *Replace this placeholder with your actual banner image URL*
 
 ## 👋 Hi, I'm **Ahsan Adip**  
