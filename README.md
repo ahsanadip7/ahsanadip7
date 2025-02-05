@@ -4,7 +4,7 @@
 
 
 
-<h3 align="center">Welcome to my GitHub profile! I'm <h1>Ahsan Adip</h1>, a passionate <h1>front-end web developer</h1> from Bangladesh with a keen interest in building user-friendly, responsive, and visually appealing websites.</h3>
+<h3 align="center">Welcome to my GitHub profile! I'm Ahsan Adip, a passionate front-end web developer from Bangladesh with a keen interest in building user-friendly, responsive, and visually appealing websites.</h3>
 
 ---
 
