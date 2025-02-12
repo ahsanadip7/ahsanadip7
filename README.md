@@ -109,7 +109,7 @@ To run this project locally on your machine, follow these steps:
 
 A **collaborative online platform** where users can join group study sessions, create tasks, and track progress. Built with **React**, **Tailwind CSS**, and **Firebase** for authentication and real-time database.
 
-- **Live Project**: [View Live Demo](https://assignment-no-10-17056.web.app/)
+- **Live Project**: [View Live Demo](https://assignment-11-57128.web.app/)
 - **Technologies Used**: React, Tailwind CSS, Firebase, JavaScript
 
 #### README Highlights:
